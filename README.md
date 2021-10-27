@@ -1,2 +1,2 @@
-# palindrome
+# Palindrome
 Palindrome case for interview

@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "postgres.db.url",
+      "type": "java.lang.String",
+      "description": "Url for local postgres database"
+    },
+    {
+      "name": "postgres.db.password",
+      "type": "java.lang.String",
+      "description": "Password for local postgres database"
+    },
+    {
+      "name": "postgres.db.username",
+      "type": "java.lang.String",
+      "description": "Description for postgres.db.username."
+    }
+  ] }
